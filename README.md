@@ -1,6 +1,6 @@
 # 🎲| Diagrama para Modelagem de Banco de Dados, Modelo Lógico
 
-  Nessa atividad, realizei uma tarefa da disciplina de Banco de Dados I. Do curso Técnnico em Informática para web. Com a finalizade de se entender o Modelo de Dados Relacional, e Lógico. 
+  Nessa atividad, realizei uma tarefa da disciplina de Banco de Dados I. Do curso Técnico em Informática para web. Com a finalizade de se entender o Modelo de Dados Relacional, e Lógico. 
 
 # 📄| Diagrama I: Tabela Relacional
 
